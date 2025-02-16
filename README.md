@@ -13,3 +13,4 @@ This project builds and evaluates a regression model using the Keras deep learni
 📊 Results & Insights: A comparative analysis of different configurations based on MSE, highlighting best practices for optimizing neural network regression models.
 
 💡 Ideal for: Deep learning beginners, data science enthusiasts, and those interested in practical model tuning strategies.
+![image](https://github.com/user-attachments/assets/ab4612d9-359b-43ac-8db6-2d9688f18b87)
