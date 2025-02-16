@@ -5,10 +5,10 @@ This project builds and evaluates a regression model using the Keras deep learni
 - Dataset: Concrete Compressive Strength Dataset
 - Tech Stack: Python, TensorFlow/Keras, Pandas, NumPy, Scikit-learn
 - Key Experiments:
-✅ Baseline Model (Single Hidden Layer, No Normalization)
-✅ Effect of Data Normalization
-✅ Increasing Training Epochs
-✅ Adding More Hidden Layers
+- Baseline Model (Single Hidden Layer, No Normalization)
+- Effect of Data Normalization
+- Increasing Training Epochs
+- Adding More Hidden Layers
 
 📊 Results & Insights: A comparative analysis of different configurations based on MSE, highlighting best practices for optimizing neural network regression models.
 
